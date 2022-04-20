@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.personalhealthmonitoringapp.Osteodinner">
+
+    <TextView
+        android:id="@+id/cal13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Calories: 340"
+        android:textColor="#0B0A0A"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head1" />
+
+    <TextView
+        android:id="@+id/head1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="Shrimp and brocolli pasta"
+        android:textColor="#0C0C0C"
+        android:textColorHint="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/cal1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/cal1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:fontFamily="sans-serif-black"
+        android:text=""
+        android:textColor="#0B0A0A"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head1" />
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/des1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cal1"
+        app:srcCompat="@drawable/shrimpandbroccoli" />
+
+    <TextView
+        android:id="@+id/des1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="130dp"
+        android:fontFamily="sans-serif-light"
+        android:text="Prep Method:\nSTEP 1: Bring a large pot of water to a boil. Add pasta; cook, undisturbed, for 6 minutes. Add broccoli to the pot; cook, undisturbed, until the pasta is al dente and the broccoli is tender-crisp, 2 to 3 minutes. Drain, reserving 1/2 cup cooking water. \nSTEP 2:   Heat oil in a deep, large skillet over medium heat. Add garlic; cook, stirring often, until softened, about 1 minute. Add shrimp and crushed red pepper; cook, stirring and turning the shrimp often, until the shrimp are just slightly translucent in the center, 2 to 3 minutes. Increase heat to medium-high; stir in cream cheese, half-and-half and the reserved 1/2 cup cooking water. \nSTEP 3: Cook, stirring constantly, until the sauce is smooth and slightly thickened, about 3 minutes. Add the pasta-broccoli mixture, tarragon, lemon juice and salt; cook, stirring constantly, until the sauce coats the pasta, about 2 minutes."
+        android:textColor="#020202"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
