@@ -90,7 +90,7 @@ public class medicationActivity extends AppCompatActivity {
 
                 }else {
 
-                    db.collection("Medication").whereEqualTo("DrName", editable.toString()).get()
+                    db.collection("Medication").whereEqualTo("Hcondition", editable.toString()).get()
                             .addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
                                 @SuppressLint("NotifyDataSetChanged")
                                 @Override
