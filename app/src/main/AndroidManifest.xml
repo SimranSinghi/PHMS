@@ -9,9 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PersonalHealthMonitoringApp">
-
-
-        <activity android:name=".FAQs"></activity>
+        <activity android:name=".AppointmentShowActivity" />
+        <activity android:name=".FAQs" />
         <activity android:name=".Osteodinner" />
         <activity android:name=".Osteolunch" />
         <activity android:name=".Osteobreakfast" />
@@ -27,15 +26,11 @@
         <activity android:name=".Dbdinner" />
         <activity android:name=".Dblunch" />
         <activity android:name=".recipe1_vegetableomelet" />
-
         <activity android:name=".OsteoporosisDP" />
         <activity android:name=".CholestrolDP" />
         <activity android:name=".CancerDP" />
         <activity android:name=".ObesityDP" />
         <activity android:name=".DiabetesDP" />
-
-
-
         <activity
             android:name=".addMedication"
             android:exported="false" />
@@ -51,9 +46,6 @@
             android:exported="false" />
         <activity
             android:name=".appointmentActivity"
-            android:exported="false" />
-        <activity
-            android:name=".searchActivity"
             android:exported="false" />
         <activity
             android:name=".notesActivity"

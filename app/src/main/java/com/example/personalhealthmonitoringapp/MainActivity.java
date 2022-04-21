@@ -47,18 +47,14 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
                 else if(finalI==5){
-                    Intent intent = new Intent(MainActivity.this,searchActivity.class);
-                    startActivity(intent);
-                }
-                else if(finalI==6){
                     Intent intent = new Intent(MainActivity.this,appointmentActivity.class);
                     startActivity(intent);
                 }
-                else if(finalI==7){
+                else if(finalI==6){
                     Intent intent = new Intent(MainActivity.this,communicationActivity.class);
                     startActivity(intent);
                 }
-                else if(finalI==8){
+                else if(finalI==7){
                     Intent intent = new Intent(MainActivity.this,Login.class);
                     startActivity(intent);
                 }
