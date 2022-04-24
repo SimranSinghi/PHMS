@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.2722222222222222" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.164" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/drawable/circle.xml" value="0.164" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/layout/activity_main.xml" value="0.28191796649335643" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Downloads/PHMS_Simran/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/Downloads/Personal-Health-Monitoring-System-SujeethS1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Downloads/Personal-Health-Monitoring-System-SujeethS1/app/src/main/res/layout/activity_profile.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/RAJ PATEL/Downloads/PHMS-Sprint-4/PHMS-Appointment_search/app/src/main/res/drawable/button_bg.xml" value="0.1975" />
+        <entry key="..\:/Users/RAJ PATEL/Downloads/PHMS-Sprint-4/PHMS-Appointment_search/app/src/main/res/layout/activity_add_note.xml" value="0.1" />
+        <entry key="..\:/Users/RAJ PATEL/Downloads/PHMS-Sprint-4/PHMS-Appointment_search/app/src/main/res/layout/activity_justtesting.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/RAJ PATEL/Downloads/PHMS-Sprint-4/PHMS-Appointment_search/app/src/main/res/layout/activity_main.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/RAJ PATEL/Downloads/PHMS-Sprint-4/PHMS-Appointment_search/app/src/main/res/layout/activity_notes.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/RAJ PATEL/Downloads/PHMS-Sprint-4/PHMS-Appointment_search/app/src/main/res/layout/custom_notes_layout.xml" value="0.1078125" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_add_medication.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_add_vital.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_canbreakfast.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_cancer_d_p.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_candinner.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_canlunch.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_cholbreakfast.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_choldinner.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_cholestrol_d_p.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_chollunch.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_medication.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_show.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_show_vitals.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/activity_vital.xml" value="0.1" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/RAJ PATEL/OneDrive/Desktop/Personal-Health-Monitoring-System-Profile_Sujeeth/app/src/main/res/layout/medicationitem.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_appointment.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_appointment_show.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18206521739130435" />
+        <entry key="app/src/main/res/layout/activity_medication.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_show_vitals.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/activity_vital.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/temp.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2453125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
