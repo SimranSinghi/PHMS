@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.personalhealthmonitoringapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PersonalHealthMonitoringApp">
+        <activity
+            android:name=".justtesting"
+            android:exported="false" />
+        <activity
+            android:name=".AddNoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".communicationShow"
+            android:exported="false" />
+        <activity android:name=".AppointmentShowActivity" />
+        <activity android:name=".FAQs" />
+        <activity android:name=".Osteodinner" />
+        <activity android:name=".Osteolunch" />
+        <activity android:name=".Osteobreakfast" />
+        <activity android:name=".Choldinner" />
+        <activity android:name=".Chollunch" />
+        <activity android:name=".Cholbreakfast" />
+        <activity android:name=".Candinner" />
+        <activity android:name=".Canlunch" />
+        <activity android:name=".Canbreakfast" />
+        <activity android:name=".Obdinner" />
+        <activity android:name=".Oblunch" />
+        <activity android:name=".Obbreakfast" />
+        <activity android:name=".Dbdinner" />
+        <activity android:name=".Dblunch" />
+        <activity android:name=".recipe1_vegetableomelet" />
+        <activity android:name=".OsteoporosisDP" />
+        <activity android:name=".CholestrolDP" />
+        <activity android:name=".CancerDP" />
+        <activity android:name=".ObesityDP" />
+        <activity android:name=".DiabetesDP" />
+        <activity
+            android:name=".addMedication"
+            android:exported="false" />
+        <activity android:name=".ShowActivity" />
+        <activity
+            android:name=".vitalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".addVital"
+            android:exported="false" />
+        <activity
+            android:name=".communicationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".appointmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".notesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dietActivity"
+            android:exported="false" />
+        <activity
+            android:name=".medicationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profileActivity"
+            android:exported="false" />
+        <activity android:name=".ResetPassword" />
+        <activity android:name=".Login" />
+        <activity
+            android:name=".Registration"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

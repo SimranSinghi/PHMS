@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980604234343",
+    "project_id": "personal-health-monitori-8c170",
+    "storage_bucket": "personal-health-monitori-8c170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980604234343:android:712024f0f6deb54f2002c2",
+        "android_client_info": {
+          "package_name": "com.example.personalhealthmonitoringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980604234343-lo56j91cn97pchhfuvus5oatpph0qouh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEpEC7GPlGKEvG8LSCbRjcYFhQZOLPTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980604234343-lo56j91cn97pchhfuvus5oatpph0qouh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
