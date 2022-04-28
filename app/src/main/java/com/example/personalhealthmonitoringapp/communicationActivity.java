@@ -46,8 +46,6 @@ public class communicationActivity extends AppCompatActivity {
         mApp_SaveBtn=findViewById(R.id.AppsaveBtn);
         mApp_ShowBtn=findViewById(R.id.AppshowBtn);
 
-        mdate_in.setInputType(InputType.TYPE_NULL);
-        mtime_in.setInputType(InputType.TYPE_NULL);
 
         db= FirebaseFirestore.getInstance();
 
