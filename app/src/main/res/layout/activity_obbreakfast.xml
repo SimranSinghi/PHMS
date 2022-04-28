@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.personalhealthmonitoringapp.Obbreakfast">
+
+    <TextView
+        android:id="@+id/cal9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Calories: 130"
+        android:textColor="#0B0A0A"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head1" />
+
+    <TextView
+        android:id="@+id/head1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="Chia Pudding"
+        android:textColor="#0C0C0C"
+        android:textColorHint="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/cal1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/cal1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:fontFamily="sans-serif-black"
+        android:text=""
+        android:textColor="#0B0A0A"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head1" />
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="377dp"
+        android:layout_height="236dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/des1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cal1"
+        app:srcCompat="@drawable/chia_pudding" />
+
+    <TextView
+        android:id="@+id/des1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="130dp"
+        android:fontFamily="sans-serif-light"
+        android:text="Prep Method:\nSTEP 1: The process of making chia pudding is so easy! The first step is to stir together your chia seeds and milk in a mason jar or bowl. I start with 3 Tablespoons of chia seeds to 1 cup of liquid, but if you want a thicker chia pudding I recommend using 4 Tablespoons to 1 cup of liquid. \nSTEP 2:  Once the chia pudding mixture is well combined, let it sit for 5 minutes, give it another stir/shake to break up any clumps of chia seeds, cover and put the mixture in the fridge to “set” for 1-2 hours or overnight. \nSTEP 3: The chia pudding should be nice and thick, not liquidy. If it’s not thick, just add more chia seeds (1 teaspoon to 1 Tablespoon), stir and refrigerate for another 30 minutes or so."
+        android:textColor="#020202"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
